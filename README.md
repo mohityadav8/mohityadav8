@@ -2,10 +2,11 @@
 - 👀 I’m interested in developing websites
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 you can reach me by gmail and that is ymohit7976.in@gmail.com
+- 📩 you can reach me by gmail and that is ymohit7976.in@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 1st year BE CSE student alredy learned html,css,javascript
-- 
+- 🚀   You can connect eith me throw
+  𝕏
 
 <!---
 mohityadav8/mohityadav8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
