@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📩 you can reach me by gmail and that is ymohit7976.in@gmail.com
 - 😄 Pronouns:he/him
-- ⚡ Fun fact: 1st year BE CSE student alredy learned html,css,javascript
+- ⚡ Fun fact: 1st year BE CSE student alredy learned html,css,javascript,React
 - 🚀   You can connect eith me throw
   𝕏
 
