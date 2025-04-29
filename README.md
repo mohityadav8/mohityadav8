@@ -7,7 +7,6 @@
 - ⚡ Fun fact: 1st year BE CSE student alredy learned html,css,javascript,React
 - 🚀   You can connect eith me throw
   𝕏
-
 <!---
 mohityadav8/mohityadav8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
