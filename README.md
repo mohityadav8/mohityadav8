@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @mohityadav8
-- 👀 I’m interested in developing websites
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on open source projects
-- 📩 you can reach me by gmail and that is ymohit7976.in@gmail.com
-- 😄 Pronouns:he/him
-- ⚡ Fun fact: 1st year BE CSE student alredy learned html,css,javascript,React
-- 🚀   You can connect eith me throw
-  𝕏
+# 👋 Hey there, I'm Mohit Yadav (@mohityadav8)
+
+💻 **Web Developer in the making** | 🌱 Currently learning **JavaScript** | 🚀 Exploring **Open Source**
+
+---
+
+### 🙋‍♂️ About Me
+- 👀 Passionate about **building modern websites & web apps**  
+- 📖 1st Year **B.E. CSE Student** at Chandigarh University  
+- ⚡ Already skilled in **HTML, CSS, JavaScript, React**  
+- 💞️ Excited to **collaborate on open source projects**  
+
+---
+
+### 📬 Let's Connect!
+<p align="center">
+  <a href="mailto:ymohit7976.in@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/yourhandle"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0000-0021-6379"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+</p>
+
 <!---
 mohityadav8/mohityadav8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
