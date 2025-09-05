@@ -6,7 +6,7 @@
 
 ### 🙋‍♂️ About Me
 - 👀 Passionate about **building modern websites & web apps**  
-- 📖 1st Year **B.E. CSE Student** at Chandigarh University  
+- 📖 2nd Year **B.E. CSE Student** at Chandigarh University  
 - ⚡ Already skilled in **HTML, CSS, JavaScript, React**  
 - 💞️ Excited to **collaborate on open source projects**  
 
