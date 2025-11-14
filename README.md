@@ -79,7 +79,6 @@
 - 🧠 Currently Learning: **TensorFlow · LangChain · OpenAI API · Next.js**
 
 ---
-
 ### 🚀 What I Do
 
 | Area | Technologies | Example Work |
