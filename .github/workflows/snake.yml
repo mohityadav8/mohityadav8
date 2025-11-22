@@ -3,18 +3,19 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
+  push:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mohityadav8
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push output to branch
+          outputs: dist/github-contribution-grid-snake-dark.svg
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
