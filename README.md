@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Full+Stack+Developer+in+Progress;AI+and+ML+Learner;2nd+Year+CSE+Student;Exploring+React+and+Next.js;Building+with+Python+and+AI;Open+Source+Contributor+🚀">
 </p>
-
 ---
 
 ### 🧠 About Me
