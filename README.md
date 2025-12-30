@@ -2,6 +2,7 @@
 <h1 align="center">👋 Hey there, I'm Mohit Yadav (@mohityadav8)</h1>
 <h3 align="center">💻 Web & AI Developer | 🌐 Full-Stack Developer in Training | 🤖 Exploring Artificial Intelligence & Open Source</h3>
 
+
 ---
 <!-- Typing Animation-->
 <p align="center">
