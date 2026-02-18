@@ -31,27 +31,23 @@ Currently open to **Software Development, Full Stack, and AI/ML Internship roles
 ## Selected Projects
 
 **AI Malware Detection System**
-ML-based malware classification using static analysis features.
+Detects malicious files using static feature analysis with ML classification (~92% accuracy, reduced manual inspection effort).
 *Python, Scikit-learn, XGBoost, Flask*
 
-**AI Resume Analyzer** *(In Progress)*
-LLM-powered resume evaluation and feedback tool.
-*Python, LangChain, OpenAI API*
-
-**Developer Chat Assistant**
-Interactive AI assistant for debugging and concept understanding.
+**AI Resume Analyzer (In Progress)**
+Analyzes resumes using embeddings + LLM feedback to suggest improvements and highlight skill gaps.
 *Python, LangChain, OpenAI API*
 
 **Spam Mail Detector**
-NLP-based spam classification with real-time prediction interface.
-*Python, Scikit-learn, TF-IDF*
+Real-time spam classification using NLP pipeline (TF-IDF + Logistic Regression) with GUI interface.
+*Python, Scikit-learn, Tkinter*
 
 **PTE Hub Web Portal**
-Responsive web portal for test support resources.
+Responsive portal for test preparation resources with structured UI and navigation.
 *HTML, CSS, JavaScript*
 
 **Secure Authentication System**
-Login system with database integration and email verification.
+User authentication system with database integration and email verification workflow.
 *Python, MySQL, SMTP*
 
 ---
@@ -64,7 +60,7 @@ System Design • Advanced Machine Learning • Backend Architecture • DevOps 
 
 ## Connect
 
-LinkedIn: [https://www.linkedin.com/in/mohit-yadav-6b2319305/](https://www.linkedin.com/in/mohit-yadav-6b2319305/)
-GitHub: [https://github.com/mohityadav8](https://github.com/mohityadav8)
-LeetCode: [https://leetcode.com/u/mohityadav8/](https://leetcode.com/u/mohityadav8/)
+LinkedIn: https://www.linkedin.com/in/mohit-yadav-6b2319305/
+GitHub: https://github.com/mohityadav8
+LeetCode: https://leetcode.com/u/mohityadav8/
 Email: [ymohit799057@gmail.com](mailto:ymohit799057@gmail.com)
