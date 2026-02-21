@@ -60,7 +60,10 @@ System Design • Advanced Machine Learning • Backend Architecture • DevOps 
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/mohit-yadav-6b2319305/
-GitHub: https://github.com/mohityadav8
-LeetCode: https://leetcode.com/u/mohityadav8/
-Email: [ymohit799057@gmail.com](mailto:ymohit799057@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Yadav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohit-yadav-6b2319305/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-mohityadav8-black?style=for-the-badge&logo=github)](https://github.com/mohityadav8)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-mohityadav8-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/mohityadav8/)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ymohit799057@gmail.com)
