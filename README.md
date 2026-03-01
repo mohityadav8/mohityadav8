@@ -7,7 +7,7 @@ Computer Science undergraduate at Chandigarh University (2024–2028). I build i
 Currently open to **Software Development, Full Stack, and AI/ML Internship roles**.
 
 ---
-
+ 
 ## Core Skills
 
 **Languages:** Python • C++ • JavaScript • C
