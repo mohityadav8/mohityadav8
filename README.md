@@ -57,21 +57,7 @@ User authentication system with database integration and email verification work
 System Design • Advanced Machine Learning • Backend Architecture • DevOps Fundamentals
 
 ---
-<!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=180747909" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-    srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=180747909&image_size=auto&color_scheme=dark" 
-    width="771" height="auto">
-    
-    <img alt="Dashboard stats of @mohityadav8" 
-    src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=180747909&image_size=auto&color_scheme=light" 
-    width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Yadav-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohit-yadav-6b2319305/) [![GitHub](https://img.shields.io/badge/GitHub-mohityadav8-black?style=for-the-badge&logo=github)](https://github.com/mohityadav8) [![LeetCode](https://img.shields.io/badge/LeetCode-mohityadav8-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/mohityadav8/) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ymohit799057@gmail.com)
