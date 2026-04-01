@@ -17,7 +17,39 @@ Currently open to **Software Development, Full Stack, and AI/ML Internship roles
 **Tools:** Git • Linux • GitHub • VS Code
 
 ---
+## 🚀 Open Source
 
+**Open Source Contributor**
+
+<p align="left">
+<a href="https://github.com/pgmpy">
+<img src="https://avatars.githubusercontent.com/u/26359565?s=200&v=4" width="50"/>
+</a>
+
+<a href="https://github.com/scikit-learn-contrib/skrub">
+<img src="https://avatars.githubusercontent.com/u/16830565?s=200&v=4" width="50"/>
+</a>
+
+<a href="https://github.com/adeptscience/adenhive">
+<img src="https://avatars.githubusercontent.com/u/130470806?s=200&v=4" width="50"/>
+</a>
+
+<a href="https://github.com/aboutcode-org">
+<img src="https://avatars.githubusercontent.com/u/24965707?s=200&v=4" width="50"/>
+</a>
+
+<a href="https://github.com/sktime">
+<img src="https://avatars.githubusercontent.com/u/56396127?s=200&v=4" width="50"/>
+</a>
+
+<a href="https://github.com/nodejs">
+<img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" width="50"/>
+</a>
+</p>
+
+📦 Recognized in official releases:
+- **pgmpy v1.1.0**
+  
 ## Open Source Contributions
 
 **Open Source Connect Global 2026 (OSCG '26)** & **Elite Coders Winter of Code 2026 (ECWoC '26)**
