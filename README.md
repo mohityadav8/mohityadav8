@@ -1,4 +1,4 @@
-# Mohit Yadav
+zendop# Mohit Yadav
 **AI/ML Systems Builder · Open Source Contributor**
 
 CS undergrad, Chandigarh University. Building ML systems and contributing to production open-source codebases. Open to **SDE / Full Stack / AI-ML internship** roles.
@@ -8,8 +8,8 @@ CS undergrad, Chandigarh University. Building ML systems and contributing to pro
 ---
 
 ## Preprints
-- **OG-CLEWS** — OSeMOSYS/CLEWS × OG-Core integration framework for UN DESA policy analysis — [Zenodo](#)
-- **DPO vs. RLHF** — Empirical alignment comparison on GPT-2 using Anthropic HH-RLHF — [Zenodo](#)
+- **OG-CLEWS** — OSeMOSYS/CLEWS × OG-Core integration framework for UN DESA policy analysis — [Zenodo](https://zenodo.org/records/20480314)
+- **DPO vs. RLHF** — Empirical alignment comparison on GPT-2 using Anthropic HH-RLHF — [Zenodo](https://zenodo.org/records/20578481)
 
 ---
 
